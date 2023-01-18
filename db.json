@@ -1,0 +1,50 @@
+[
+  {
+    maquina: '1001',
+    nome: 'Impressão',
+    layout: { title: 'Coluna', type: 'success', icon: 'check' },
+    categoria: 'Impressora',
+    status: { title: 'Ativo', type: 'success', icon: 'check' },
+    acoes: { acao1: 'Editar', acao2: 'Inativar', acao3: 'Excluir' }
+  },
+  {
+    maquina: '1003',
+    nome: 'Flexogravura',
+    layout: { title: 'Livre', type: 'secondary', icon: 'ban' },
+    categoria: 'Laminadora',
+    status: { title: 'Inativo', type: 'primary', icon: 'info' },
+    acoes: { acao1: 'Editar', acao2: 'Inativar', acao3: 'Excluir' }
+  },
+  {
+    maquina: '1002',
+    nome: 'Laminação 1',
+    layout: { title: 'Coluna', type: 'success', icon: 'check' },
+    categoria: 'Extrusora',
+    status: { title: 'Ativo', type: 'success', icon: 'check' },
+    acoes: { acao1: 'Editar', acao2: 'Inativar', acao3: 'Excluir' }
+  },
+  {
+    maquina: '1004',
+    nome: 'Laminação 2',
+    layout: { title: 'Livre', type: 'secondary', icon: 'ban' },
+    categoria: 'Pouchera',
+    status: { title: 'Inativo', type: 'primary', icon: 'info' },
+    acoes: { acao1: 'Editar', acao2: 'Inativar', acao3: 'Excluir' }
+  },
+  {
+    maquina: '1002',
+    nome: 'Laminação 1',
+    layout: { title: 'Coluna', type: 'success', icon: 'check' },
+    categoria: 'Extrusora',
+    status: { title: 'Ativo', type: 'success', icon: 'check' },
+    acoes: { acao1: 'Editar', acao2: 'Inativar', acao3: 'Excluir' }
+  },
+  {
+    maquina: '1004',
+    nome: 'Laminação 2',
+    layout: { title: 'Livre', type: 'secondary', icon: 'ban' },
+    categoria: 'Pouchera',
+    status: { title: 'Inativo', type: 'primary', icon: 'info' },
+    acoes: { acao1: 'Editar', acao2: 'Inativar', acao3: 'Excluir' }
+  }
+];
